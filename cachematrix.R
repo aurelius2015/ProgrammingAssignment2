@@ -1,5 +1,5 @@
 ## c60b86064d082a67d062cba81c3164f62e1a5d5e
-## https://github.com/aurelius2015/ProgrammingAssignment2
+## https://github.com/aurelius2015/ProgrammingAssignment2.git
 ## Programming Assignment 2: Lexical Scoping - Caching the Inverse of a Matrix
 
 ##This second programming assignment will require you to write an R function is 
